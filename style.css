@@ -25,7 +25,7 @@ body {
 }
 
 #name {
-    font-size: 4vmax;
+    font-size: 5vmax;
 }
 
 #status {
@@ -75,6 +75,11 @@ button:hover {
     button {
         margin: 4vh 0 0 0;
     }
+    
+    #name {
+    font-size: 3.5vmax;
+    }
+
 
     .fa-3x {
         font-size: 40px;
