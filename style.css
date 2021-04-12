@@ -43,6 +43,7 @@ button {
     padding: 1.4vh 2.5vh 1.4vh 2.5vh;
     border-radius: 1vh;
     margin: 4vh;
+    cursor: pointer;
     background: transparent;
     -webkit-border-radius: 1vh;
     -moz-border-radius: 1vh;
