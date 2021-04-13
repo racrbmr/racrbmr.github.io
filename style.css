@@ -66,7 +66,7 @@ button:hover {
 
 @media screen and (min-width: 1300px) {
     .fa-3x {
-        font-size: 65px;
+        font-size: 3.8vmax;
     }
     
 }
@@ -75,15 +75,16 @@ button:hover {
 
     button {
         margin: 4vh 0 0 0;
-    }
-    
-    #name {
-    font-size: 3.5vmax;
+        padding: 1.2vh 1.6vh 1.2vh 1.6vh;
+        font-size: 1.3vmax;
     }
 
+    #name {
+        font-size: 3.5vmax;
+    }
 
     .fa-3x {
-        font-size: 40px;
+        font-size: 4vmax;
         margin: 1vh 1vh 0 0;
     }
     
